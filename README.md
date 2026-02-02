@@ -1,8 +1,3 @@
-Here is the complete, consolidated `README.md` file.
-
-You can copy this entire block and paste it directly into your GitHub repository. I have fixed the diagram error and integrated all the research-level sections into a single professional document.
-
-```markdown
 # Aura-Core: Autonomous Biometric Computational Engine
 
 ![Version](https://img.shields.io/badge/Aura%20Core-v3.0.0-blue?style=flat-square)
@@ -86,10 +81,6 @@ graph TD
     POS & PCA -->|Results| Aggregator[Risk Engine]
     Aggregator -->|JSON| DB[(Timeseries DB)]
     end
-
-```
-
----
 
 ## ⚙️ Algorithmic Methodology
 
