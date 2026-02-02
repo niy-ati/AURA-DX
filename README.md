@@ -81,7 +81,6 @@ graph TD
     POS & PCA -->|Results| Aggregator[Risk Engine]
     Aggregator -->|JSON| DB[(Timeseries DB)]
     end
-
 ## ⚙️ Algorithmic Methodology
 
 This section details the signal processing pipeline used to convert raw sensor data into clinical metrics.
